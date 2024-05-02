@@ -15,7 +15,7 @@ bacterialProteomeDomainAnalyzer("/Users/gauravsablok/Desktop/CodeTest/json_parse
   'Pyruvate:ferredoxin (Flavodoxin) oxidoreductase']]
 help(bacterialProteomeDomainAnalyzer) # for more information
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
